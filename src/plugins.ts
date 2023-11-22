@@ -165,6 +165,7 @@ async function loadCompatiblePlugins() {
     'prettier-plugin-organize-attributes',
     'prettier-plugin-style-order',
     'prettier-plugin-sort-imports',
+    'prettier-plugin-django-alpine',
   ]
 
   // Load all the available compatible plugins up front
